@@ -1,0 +1,8 @@
+[runner]
+# 응답 대기 중 클릭해도 이전 실행이 끝난 뒤에 다시 실행한다.
+# 기본값(true)이면 실행이 겹쳐 같은 API 요청이 중복으로 나갈 수 있다.
+fastReruns = false
+
+[browser]
+# Streamlit 사용 통계 전송 끄기
+gatherUsageStats = false

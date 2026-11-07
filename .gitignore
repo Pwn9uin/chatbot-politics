@@ -1,0 +1,15 @@
+# 비밀 정보 — 절대 커밋하지 않는다
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 저장된 토론 기록
+sessions/
+
+.DS_Store
